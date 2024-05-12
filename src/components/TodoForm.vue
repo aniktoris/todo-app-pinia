@@ -24,4 +24,20 @@ function addItemAndClear(item) {
 </template>
 
 <style scoped>
+form{
+  margin-bottom: 15px;
+}
+input{
+  margin-top: 25px;
+  margin-bottom: 15px;
+  height: 20px;
+  width: 50%;
+}
+button {
+  margin-left: 30px;
+  background-color: #2f6089;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+}
 </style>
